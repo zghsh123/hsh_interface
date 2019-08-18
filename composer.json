@@ -1,5 +1,5 @@
 {
-    "name": "fhc/hsh_interface",
+    "name": "hsh/hsh_interface",
     "description": "惠生活的接口文件大全",
     "type": "library",
     "license": "MIT",
