@@ -1,5 +1,5 @@
 <?php
-namespace Hui;
+namespace Huishenghuo;
 /**
  * Interface SmsInterface
  * @package Hui

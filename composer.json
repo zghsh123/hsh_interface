@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hui\\": "src/Hui"
+            "Hui\\": "src/Huishenghuo"
         }
     }
 }
