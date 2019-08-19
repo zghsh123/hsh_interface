@@ -12,9 +12,12 @@ interface SmsInterface
      * email:3081089511@qq.com
      * Created by fhc on 2019-08-18-13:44
      * desc:发送短信
+     * @param string $code
+     * @param string $phone
+     * @param string $secne
      * @return mixed
      */
-    public function sendMsg();
+    public function sendMsg(string $code,string $phone,string $secne);
 
     /**
      * author:fhc
