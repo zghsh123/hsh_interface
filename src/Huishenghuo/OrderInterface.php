@@ -25,9 +25,10 @@ interface OrderInterface
      * email:3081089511@qq.com
      * Created by fhc on 2019-08-19-13:19
      * desc:取消订单
+     * @param array $arr
      * @return mixed
      */
-    public function cancel_order();
+    public function cancel_order(array $arr);
 
     /**
      * author:fhc
