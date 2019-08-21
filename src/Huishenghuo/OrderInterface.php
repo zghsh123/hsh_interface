@@ -47,4 +47,13 @@ interface OrderInterface
      * @return mixed
      */
     public function closed_order();
+
+    /**
+     * author:fhc
+     * email:3081089511@qq.com
+     * Created by fhc on 2019-08-21-19:49
+     * desc:获取订单物流
+     * @return mixed
+     */
+    public function getOrderLogists();
 }
