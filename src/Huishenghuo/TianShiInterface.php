@@ -32,4 +32,14 @@ interface TianShiInterface
      * @return mixed
      */
     public function addOrder(array $data);
+
+    /**
+     * author:fhc
+     * email:3081089511@qq.com
+     * Created by fhc on 2019-09-17-13:15
+     * desc:订单退款
+     * @param array $data
+     * @return mixed
+     */
+    public function orderRefund(array $data);
 }
