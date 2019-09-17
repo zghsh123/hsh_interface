@@ -59,4 +59,22 @@ interface OrderInterface
      * @return mixed
      */
     public function getOrderLogists(array $arr);
+
+    /**
+     * author:zrf
+     * created_at zrf (2019-09-17)-10:34
+     * desc:商品退货
+     * @param array $arr
+     * @return mixed
+     */
+    public function returnGoods(array $arr);
+
+    /**
+     * author:zrf
+     * created_at zrf (2019-09-17)-10:36
+     * desc:商品退款
+     * @param array $arr
+     * @return mixed
+     */
+    public function orderRefundMoney(array $arr);
 }
