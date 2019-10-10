@@ -116,7 +116,7 @@ interface PiaoFuTongInterface
     /**
      * author:zrf
      * created_at zrf (2019-10-10)-09:14
-     * desc:重发短信 (可选)
+     * desc:重发短信 (可选
      * @param array $data
      * @return mixed
      */
