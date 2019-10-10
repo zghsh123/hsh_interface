@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c17ac0-8cb8-4dad-848d-932edf8f2b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Huishenghuo/PiaoFuTongInterface.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Huishenghuo/OrderInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huishenghuo/OrderInterface.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,8 @@
       <workItem from="1566302461155" duration="384000" />
       <workItem from="1566348031809" duration="5303000" />
       <workItem from="1568687578726" duration="301000" />
+      <workItem from="1570615324324" duration="657000" />
+      <workItem from="1570669411408" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1566106599609</created>
@@ -141,7 +143,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
