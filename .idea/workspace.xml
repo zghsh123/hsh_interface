@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c17ac0-8cb8-4dad-848d-932edf8f2b8d" name="Default Changelist" comment="" />
+    <list default="true" id="77c17ac0-8cb8-4dad-848d-932edf8f2b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Huishenghuo/QiNiuInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +75,8 @@
       <workItem from="1570615324324" duration="657000" />
       <workItem from="1570669411408" duration="2005000" />
       <workItem from="1570671867384" duration="676000" />
+      <workItem from="1570777437297" duration="613000" />
+      <workItem from="1571739394849" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1566106599609</created>
