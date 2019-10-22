@@ -15,11 +15,10 @@ interface QiNiuInterface
      * author:zrf
      * created_at zrf (2019-10-22)-18:18
      * desc:上传文件
-     * @param string $key
-     * @param string $filePath
+     * @param array $arr
      * @return mixed
      */
-    public function putFile(string $key='',string $filePath='');
+    public function putFile(array $arr);
 
     /**
      * author:zrf
