@@ -7,7 +7,7 @@ namespace Huishenghuo;
  * Interface HuiPlayingCard
  * @package Huishenghuo
  */
-interface HuiPlayingCard
+interface HuiPlayingCardInterface
 {
     public function getCardUserNamePasword();
 }
